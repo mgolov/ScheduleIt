@@ -1,3 +1,0 @@
-# ClassScheduleCreator-CSC-
-
-test test
