@@ -1,2 +1,1 @@
-# ClassScheduleCreator-CSC-
-"Hello World"
+#Schedule It
